@@ -1,10 +1,10 @@
-I left off on page 6
+I left off on page 15.
 
 # JavaScript 
 I am using a single repository to collect notes and examples of JavaScript.
 
 ## Chapters
-[] 01 Introduction to JavaScript
+[X] 01 Introduction to JavaScript
 [] 02 Lexical Structure
 [] 03 Types, Values, and Variables
 [] 04 Expressions and Operators
