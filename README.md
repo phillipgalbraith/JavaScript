@@ -1,4 +1,4 @@
-I left off on page 15.
+I left off on page 18.
 
 # JavaScript 
 I am using a single repository to collect notes and examples of JavaScript.
